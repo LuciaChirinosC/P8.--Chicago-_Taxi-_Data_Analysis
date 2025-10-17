@@ -1,4 +1,4 @@
-# 🚖 Chicago Taxi Data Analysis – Sprint 8
+# 🚖 Chicago Taxi Data Analysis – P8
 ## 🧾 Descripción
 
 Proyecto de análisis exploratorio y estadístico de datos de viajes en taxi en la ciudad de Chicago (EE. UU.)
